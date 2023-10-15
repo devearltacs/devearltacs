@@ -8,3 +8,5 @@
 devearltacs/devearltacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652c2fd1f43a58c923d2b056?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
