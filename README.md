@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devearltacs. You can call me Earl
-- 👀 I’m interested in React, React Native and Laravel Development, I also have a hobby of learning game development aspiring to be a hobbyist on game development on Unity
+- 👀 I’m interested in React, React Native and Laravel Development, I also have a hobby of learning game development aspiring to be a hobbyist on game development in Unity
 - 🌱 I’m currently learning Figma UI Kit Design, Next.JS(React Framework) and Unity Game Development
 - 💞️ I’m looking to collaborate on UI Kit Designing, Next. JS and Unity Game Development
 - 📫 You can contact me on earltacogdoy@gmail.com.
